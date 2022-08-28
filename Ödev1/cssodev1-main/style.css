@@ -1,0 +1,65 @@
+ .sidebar {
+    position:fixed;
+    width: 30%;
+    height: 100%    ;
+    font-size: 20px;
+    background: black;
+    min-height: 100vh;
+  }
+
+  .nav {
+    position:relative;
+    top: 30%;
+    transform: translateY(-50%);
+  }
+  .nav ul {
+    list-style: none;
+    font-family: monospace;
+  }
+  .nav ul a{
+    color: red;
+    font-family:monospace;
+  }
+
+  a {
+    line-height: 4em;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.2em;
+    color: red
+  }
+
+  section {
+   color: red;
+   margin-left: 35%;
+   font-family: monospace;
+   font-size: 16px;
+   
+} 
+
+section .baslik {
+    color: red;
+    font-size: 50px;
+    padding-top: 10%;
+    font-family:'Courier New', Courier, monospace
+}
+
+.sidebar div img{
+  height: 148px;
+  margin-left:0%;
+  
+}
+
+section h1{
+  color: red;
+  font-size: 30px;
+  text-align: left;
+}
+section .arabatürleri img{
+margin-left:0%;
+height: 250px;
+}
+section .arabatürleri p{
+color: rgb(255, 0, 0);
+font-size: 30px;
+}

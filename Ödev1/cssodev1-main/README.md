@@ -1,0 +1,1 @@
+# Patika.dev CSS patikası kapsamında yaptığım 1. ödev
